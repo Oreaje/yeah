@@ -1,0 +1,22 @@
+/* element selector */
+p {
+  color: blue;
+  font-size: 20px;
+}
+/** ID selector */
+#footer-p{
+  color: rgb(255, 0, 208);
+  font-size: 30px;
+}
+/** class selector **/
+.title{
+  font-weight: 800;
+  font-size: 40px;
+  text-decoration: underline;
+}
+main{
+  background-color: rgb(143, 117, 166);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
